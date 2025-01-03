@@ -9,6 +9,7 @@ export default {
       fontFamily: {
         heebo: ['Heebo', 'sans-serif'],
         oswald: ['Oswald', 'sans-serif'],
+        dmsans: ['DM Sans', 'sans-serif'],
       },
       colors: {
         heading: '#0D868F',

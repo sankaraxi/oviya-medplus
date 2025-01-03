@@ -1,3 +1,10 @@
+import ST1 from "../../assets/services/Strategy01.png";
+import ST2 from "../../assets/services/Strategy02.png";
+import ST3 from "../../assets/services/Strategy03.png";
+import ST4 from "../../assets/services/Strategy04.png";
+import ST5 from "../../assets/services/Strategy05.png";
+
+
 export const accordianData = [
     {
         serviceOne: [
@@ -80,3 +87,31 @@ export const accordianData = [
     }
 
 ];
+
+export const strategyData = [
+    {
+        id: 1,
+        title: "PV Database Provision",
+        image_id: ST1,
+    },
+    {
+        id: 2,
+        title: "Medical Writing",
+        image_id: ST2,
+    },
+    {
+        id: 3,
+        title: "CRO Services",
+        image_id: ST3,
+    },
+    {
+        id: 4,
+        title: "Analytics and Research",
+        image_id: ST4,
+    },
+    {
+        id: 5,
+        title: "Regulatory Affairs",
+        image_id: ST5,
+    }
+]

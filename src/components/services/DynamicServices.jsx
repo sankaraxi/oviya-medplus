@@ -8,7 +8,7 @@ const DynamicServices = () => {
         {/* Content */}
         <div className="w-6/12 ">
             <h1 className="font-oswald text-[32px] font-bold text-heading uppercase">{servicesData[index]?.title}</h1>
-            <p className="text-[18px] pt-5 text-justify leading-8">{servicesData[index]?.description}</p>
+            <p className="text-[18px] text-left font-heebo pt-5 text-justify leading-8">{servicesData[index]?.description}</p>
         </div>
         {/* Image */}
         <div className="w-5/12 relative inset-0 flex justify-center">

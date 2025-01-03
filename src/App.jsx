@@ -1,5 +1,6 @@
 import { createBrowserRouter, Outlet } from "react-router-dom"
-import Services from "./components/services/Services"
+import { Services } from "./components/Services"
+
 
 
 

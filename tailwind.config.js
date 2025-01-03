@@ -7,10 +7,12 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        oswald: ['Oswald', 'sans-serif'], // Add Oswald as a font family
+        oswald: ['Oswald', 'sans-serif'], 
       },
       colors: {
-        heading: '#0D868F', // Your custom color with a name
+        heading: '#0D868F',
+        gradientfrom: '#17BE81',
+        gradientto: '#09BBCC',
       },
     },
   },

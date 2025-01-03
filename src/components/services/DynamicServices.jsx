@@ -2,7 +2,7 @@ import { servicesData } from "../../utils/services/servicesdata"
 import SQUARE from "../../assets/services/overlapSquare.png"
 
 const DynamicServices = () => {
-  const index = 2;
+  const index = 0;
   return (
     <div id={servicesData[index]?.id} className="p-36 flex justify-between items-center">
         {/* Content */}

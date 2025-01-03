@@ -4,7 +4,7 @@ export const accordianData = [
             {
                 id: 1,
                 title: "Lifecycle Management of ICSRs - From Triaging to Submission",
-                content: "Lifecycle Management of ICSRs - From Triaging to Submission content to be added",
+                content: " content to be added",
             },
             {
                 id: 2,

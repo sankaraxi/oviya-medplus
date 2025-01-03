@@ -13,6 +13,7 @@ export default {
         heading: '#0D868F',
         gradientfrom: '#17BE81',
         gradientto: '#09BBCC',
+        plus:'#20BAD1'
       },
     },
   },

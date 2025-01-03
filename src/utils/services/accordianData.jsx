@@ -56,22 +56,22 @@ export const accordianData = [
             {
                 id: 4,
                 title: "Development and Maintenance of PV QMS",
-                content: " content to be added",
+                content: "",
             },
             {
                 id: 5,
                 title: "Preparation and Maintenance of PSMF",
-                content: " content to be added",
+                content: "",
             },
             {
                 id: 6,
                 title: "Transformational Pharmacovigilance Support, Leveraging Technology and AI initiatives",
-                content: " content to be added",
+                content: "",
             },
             {
                 id: 7,
                 title: "Strategic Deployment of Contract Staff",
-                content: " content to be added",
+                content: "",
             },
         ],
     },

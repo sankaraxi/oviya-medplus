@@ -14,7 +14,8 @@ export default {
         heading: '#0D868F',
         gradientfrom: '#17BE81',
         gradientto: '#09BBCC',
-        plus:'#20BAD1'
+        plus:'#20BAD1',
+        dropdown: '#F9F9F9',
       },
     },
   },

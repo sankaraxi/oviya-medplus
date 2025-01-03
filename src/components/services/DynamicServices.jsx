@@ -1,4 +1,4 @@
-import { servicesData } from "../../utils/services/servicesdata"
+import { servicesData } from "../../utils/services/servicesData"
 import SQUARE from "../../assets/services/overlapSquare.png"
 
 const DynamicServices = () => {

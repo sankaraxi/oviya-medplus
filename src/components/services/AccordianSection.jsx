@@ -13,7 +13,7 @@ const AccordianSection = () => {
   return (
     <div className="w-full py-[49px] flex flex-col justify-between items-center bg-gradient-to-r from-gradientfrom to-gradientto">
       <div className="bg-white w-[708px]">
-        {accordianData[0]?.serviceOne.map((item) => {
+        {accordianData[0]?.serviceTwo.map((item) => {
           const isExpanded = expandedItemId === item.id;
 
           return (

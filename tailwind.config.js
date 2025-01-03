@@ -7,7 +7,8 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        oswald: ['Oswald', 'sans-serif'], 
+        heebo: ['Heebo', 'sans-serif'],
+        oswald: ['Oswald', 'sans-serif'],
       },
       colors: {
         heading: '#0D868F',

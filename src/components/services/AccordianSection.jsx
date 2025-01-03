@@ -30,7 +30,7 @@ const AccordianSection = () => {
                 </div>
                 <div className="w-11/12 flex flex-col">
                   <h1 className="text-[20px] text-plus capitalize">{item.title}</h1>
-
+                  {/* Display content only for the expanded item */}
                   <div
                   className={`transition-max-height duration-300 overflow-hidden ${
                     isExpanded ? "max-h-[500px]" : "max-h-0"
@@ -42,8 +42,7 @@ const AccordianSection = () => {
                   </div>
                 </div>
               </div>
-              {/* Display content only for the expanded item */}
-              
+
             </div>
           );
         })}
